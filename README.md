@@ -3,7 +3,7 @@
 > 
 > 👤 [pronoun.is/he](https://pronoun.is/he)
 >
->  📫 How to reach me: mail@lucabandini.it or luca@primetest.ga
+>  📫 How to reach me: mail@lucabandini.it or luca@primetest.org
 ### Here are some of the things that I ❤️:
 
 - ☕ Coffee
