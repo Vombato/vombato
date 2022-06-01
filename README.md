@@ -1,4 +1,4 @@
-## <img src="https://media0.giphy.com/media/Uuvny52shyLJKtdiRM/giphy.gif" width="50px"> Hi there! 
+## <img src="https://media0.giphy.com/media/Uuvny52shyLJKtdiRM/giphy.gif" height="30px" width="50px"> Hi there! 
 > I'm **Luca**, you can call me **Vombato**, **Mashi** or whatever you like better!
 > 
 > 👤 [pronoun.is/he](https://pronoun.is/he)
