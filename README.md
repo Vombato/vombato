@@ -14,8 +14,9 @@
 - ☕ *(Did I already said Coffee?)*
 
 
-<p align="center"><img src="https://github-readme-stats-pearl-seven-71.vercel.app/api?username=vombato&show_icons=true&theme=dracula" height="150px"></p>
-
+<p align="center">
+  <img src="./profile/stats.svg" width="470" alt="">
+</p>
 
 
 ---
