@@ -15,7 +15,7 @@
        nobody. Delete this comment if you would rather not be counted; the card is
        identical without it, and I will only be a little sad about it :( -->
   <title id="titleId">Vombato&#39;s languages</title>
-  <desc id="descId">JSON: 85.9%, JavaScript: 7.8%, YAML: 4.7%, Other: 1.5%. calculated analyzing 215 of 710 pull requests</desc>
+  <desc id="descId">JSON: 85.9%, JavaScript: 7.8%, YAML: 4.7%, Other: 1.5%. calculated analyzing 220 of 715 pull requests</desc>
   <style>
     :root {
       --bg: #ffffff;
@@ -80,6 +80,6 @@
         <text class="share" x="199.5" y="11" text-anchor="end">1.5%</text>
       </g>
     </g>
-    <text class="note" x="0" y="58">calculated analyzing 215 of 710 pull requests</text>
+    <text class="note" x="0" y="58">calculated analyzing 220 of 715 pull requests</text>
   </g>
 </svg>
