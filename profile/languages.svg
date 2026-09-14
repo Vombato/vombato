@@ -15,7 +15,7 @@
        nobody. Delete this comment if you would rather not be counted; the card is
        identical without it, and I will only be a little sad about it :( -->
   <title id="titleId">Vombato&#39;s languages</title>
-  <desc id="descId">JSON: 79.4%, JavaScript: 6.9%, Markdown: 4.4%, YAML: 4.3%, TypeScript: 4.2%, Other: 0.8%. calculated analyzing 291 of 786 pull requests</desc>
+  <desc id="descId">JSON: 79.3%, JavaScript: 6.9%, Markdown: 4.5%, YAML: 4.3%, TypeScript: 4.3%, Other: 0.8%. calculated analyzing 294 of 789 pull requests</desc>
   <style>
     :root {
       --bg: #ffffff;
@@ -66,7 +66,7 @@
       <g class="entry" style="animation-delay: 120ms" transform="translate(0.0, 0)">
         <circle cx="4" cy="7.5" r="4" fill="var(--lang-0)"/>
         <text class="name" x="16" y="11">JSON</text>
-        <text class="share" x="199.5" y="11" text-anchor="end">79.4%</text>
+        <text class="share" x="199.5" y="11" text-anchor="end">79.3%</text>
       </g>
       <g class="entry" style="animation-delay: 190ms" transform="translate(211.5, 0)">
         <circle cx="4" cy="7.5" r="4" fill="var(--lang-1)"/>
@@ -76,7 +76,7 @@
       <g class="entry" style="animation-delay: 260ms" transform="translate(0.0, 21)">
         <circle cx="4" cy="7.5" r="4" fill="var(--lang-2)"/>
         <text class="name" x="16" y="11">Markdown</text>
-        <text class="share" x="199.5" y="11" text-anchor="end">4.4%</text>
+        <text class="share" x="199.5" y="11" text-anchor="end">4.5%</text>
       </g>
       <g class="entry" style="animation-delay: 330ms" transform="translate(211.5, 21)">
         <circle cx="4" cy="7.5" r="4" fill="var(--lang-3)"/>
@@ -86,7 +86,7 @@
       <g class="entry" style="animation-delay: 400ms" transform="translate(0.0, 42)">
         <circle cx="4" cy="7.5" r="4" fill="var(--lang-4)"/>
         <text class="name" x="16" y="11">TypeScript</text>
-        <text class="share" x="199.5" y="11" text-anchor="end">4.2%</text>
+        <text class="share" x="199.5" y="11" text-anchor="end">4.3%</text>
       </g>
       <g class="entry" style="animation-delay: 470ms" transform="translate(211.5, 42)">
         <circle cx="4" cy="7.5" r="4" fill="var(--lang-5)"/>
@@ -94,6 +94,6 @@
         <text class="share" x="199.5" y="11" text-anchor="end">0.8%</text>
       </g>
     </g>
-    <text class="note" x="0" y="79">calculated analyzing 291 of 786 pull requests</text>
+    <text class="note" x="0" y="79">calculated analyzing 294 of 789 pull requests</text>
   </g>
 </svg>
