@@ -15,7 +15,7 @@
        nobody. Delete this comment if you would rather not be counted; the card is
        identical without it, and I will only be a little sad about it :( -->
   <title id="titleId">Luca Bandini&#39;s GitHub stats</title>
-  <desc id="descId">Total Commits: 747, Commits (2026): 90, Total PRs: 439, PR Merge Rate: 70.4%, PRs Reviewed: 99, Total Issues: 182, Total Stars Earned: 4. Contributions: 2946</desc>
+  <desc id="descId">Total Commits: 748, Commits (2026): 90, Total PRs: 439, PR Merge Rate: 70.4%, PRs Reviewed: 99, Total Issues: 182, Total Stars Earned: 4. Contributions: 2946</desc>
   <style>
     :root {
       --bg: #ffffff;
@@ -48,7 +48,7 @@
   <rect x="0.5" y="0.5" rx="6" width="503" height="356" stroke="var(--border)" fill="var(--bg)"/>
   <g transform="translate(22, 22)">
       <g class="stagger" style="animation-delay: 200ms" transform="translate(0, 0)">
-        <text class="figure" x="0" y="30">747</text>
+        <text class="figure" x="0" y="30">748</text>
         <svg class="icon" viewBox="0 0 16 16" width="12" height="12" x="0" y="37.67"><path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"/></svg>
         <text class="caption" x="17" y="47">TOTAL COMMITS</text>
       </g>
