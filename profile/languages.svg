@@ -1,7 +1,7 @@
 <svg
   width="467"
-  height="127"
-  viewBox="0 0 467 127"
+  height="148"
+  viewBox="0 0 467 148"
   style="max-width: 100%; height: auto;"
   preserveAspectRatio="xMidYMid meet"
   fill="none"
@@ -15,7 +15,7 @@
        nobody. Delete this comment if you would rather not be counted; the card is
        identical without it, and I will only be a little sad about it :( -->
   <title id="titleId">Vombato&#39;s languages</title>
-  <desc id="descId">JSON: 74.3%, YAML: 7.4%, JavaScript: 6.2%, TypeScript: 5.3%, Markdown: 4.7%, Other: 2.0%. calculated analyzing all 466 pull requests</desc>
+  <desc id="descId">JSON: 73.8%, YAML: 7.4%, JavaScript: 6.1%, TypeScript: 5.3%, Markdown: 4.7%, Python: 1.1%, Other: 1.6%. calculated analyzing all 472 pull requests</desc>
   <style>
     :root {
       --bg: #ffffff;
@@ -41,7 +41,8 @@
       --lang-2: #a49300;
       --lang-3: #3178c6;
       --lang-4: #083fa1;
-      --lang-5: #8b949e;
+      --lang-5: #3572a5;
+      --lang-6: #8b949e;
     }
     @media (prefers-color-scheme: dark) {
       :root {
@@ -50,23 +51,24 @@
       --lang-2: #f1e05a;
       --lang-3: #3178c6;
       --lang-4: #285ec2;
-      --lang-5: #8b949e;
+      --lang-5: #3572a5;
+      --lang-6: #8b949e;
       }
     }
     .name { font: 600 12.5px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: var(--strong); }
     .share { font: 400 12.5px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: var(--text); }
     .note { font: 400 10.5px 'Segoe UI', Ubuntu, Sans-Serif; fill: var(--dim); }
     .entry, .note { opacity: 0; animation: fadeIn .3s ease-out forwards; }
-    .note { animation-delay: 620ms; }
+    .note { animation-delay: 690ms; }
     @keyframes fadeIn { from { opacity: 0 } to { opacity: 1 } }
   </style>
-  <rect x="0.5" y="0.5" rx="6" width="466" height="126" stroke="var(--border)" fill="var(--bg)"/>
+  <rect x="0.5" y="0.5" rx="6" width="466" height="147" stroke="var(--border)" fill="var(--bg)"/>
   <g transform="translate(22, 22)">
     <g>
       <g class="entry" style="animation-delay: 120ms" transform="translate(0.0, 0)">
         <circle cx="4" cy="7.5" r="4" fill="var(--lang-0)"/>
         <text class="name" x="16" y="11">JSON</text>
-        <text class="share" x="199.5" y="11" text-anchor="end">74.3%</text>
+        <text class="share" x="199.5" y="11" text-anchor="end">73.8%</text>
       </g>
       <g class="entry" style="animation-delay: 190ms" transform="translate(211.5, 0)">
         <circle cx="4" cy="7.5" r="4" fill="var(--lang-1)"/>
@@ -76,7 +78,7 @@
       <g class="entry" style="animation-delay: 260ms" transform="translate(0.0, 21)">
         <circle cx="4" cy="7.5" r="4" fill="var(--lang-2)"/>
         <text class="name" x="16" y="11">JavaScript</text>
-        <text class="share" x="199.5" y="11" text-anchor="end">6.2%</text>
+        <text class="share" x="199.5" y="11" text-anchor="end">6.1%</text>
       </g>
       <g class="entry" style="animation-delay: 330ms" transform="translate(211.5, 21)">
         <circle cx="4" cy="7.5" r="4" fill="var(--lang-3)"/>
@@ -90,10 +92,15 @@
       </g>
       <g class="entry" style="animation-delay: 470ms" transform="translate(211.5, 42)">
         <circle cx="4" cy="7.5" r="4" fill="var(--lang-5)"/>
+        <text class="name" x="16" y="11">Python</text>
+        <text class="share" x="199.5" y="11" text-anchor="end">1.1%</text>
+      </g>
+      <g class="entry" style="animation-delay: 540ms" transform="translate(0.0, 63)">
+        <circle cx="4" cy="7.5" r="4" fill="var(--lang-6)"/>
         <text class="name" x="16" y="11">Other</text>
-        <text class="share" x="199.5" y="11" text-anchor="end">2.0%</text>
+        <text class="share" x="199.5" y="11" text-anchor="end">1.6%</text>
       </g>
     </g>
-    <text class="note" x="0" y="79">calculated analyzing all 466 pull requests</text>
+    <text class="note" x="0" y="100">calculated analyzing all 472 pull requests</text>
   </g>
 </svg>
