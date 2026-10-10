@@ -15,7 +15,7 @@
        nobody. Delete this comment if you would rather not be counted; the card is
        identical without it, and I will only be a little sad about it :( -->
   <title id="titleId">Vombato&#39;s languages</title>
-  <desc id="descId">JSON: 73.5%, YAML: 7.4%, JavaScript: 6.1%, TypeScript: 5.3%, Markdown: 4.7%, Python: 1.4%, Other: 1.7%. calculated analyzing all 490 pull requests</desc>
+  <desc id="descId">JSON: 73.4%, YAML: 7.4%, JavaScript: 6.1%, TypeScript: 5.3%, Markdown: 4.7%, Python: 1.5%, Other: 1.7%. calculated analyzing all 498 pull requests</desc>
   <style>
     :root {
       --bg: #ffffff;
@@ -68,7 +68,7 @@
       <g class="entry" style="animation-delay: 120ms" transform="translate(0.0, 0)">
         <circle cx="4" cy="7.5" r="4" fill="var(--lang-0)"/>
         <text class="name" x="16" y="11">JSON</text>
-        <text class="share" x="199.5" y="11" text-anchor="end">73.5%</text>
+        <text class="share" x="199.5" y="11" text-anchor="end">73.4%</text>
       </g>
       <g class="entry" style="animation-delay: 190ms" transform="translate(211.5, 0)">
         <circle cx="4" cy="7.5" r="4" fill="var(--lang-1)"/>
@@ -93,7 +93,7 @@
       <g class="entry" style="animation-delay: 470ms" transform="translate(211.5, 42)">
         <circle cx="4" cy="7.5" r="4" fill="var(--lang-5)"/>
         <text class="name" x="16" y="11">Python</text>
-        <text class="share" x="199.5" y="11" text-anchor="end">1.4%</text>
+        <text class="share" x="199.5" y="11" text-anchor="end">1.5%</text>
       </g>
       <g class="entry" style="animation-delay: 540ms" transform="translate(0.0, 63)">
         <circle cx="4" cy="7.5" r="4" fill="var(--lang-6)"/>
@@ -101,6 +101,6 @@
         <text class="share" x="199.5" y="11" text-anchor="end">1.7%</text>
       </g>
     </g>
-    <text class="note" x="0" y="100">calculated analyzing all 490 pull requests</text>
+    <text class="note" x="0" y="100">calculated analyzing all 498 pull requests</text>
   </g>
 </svg>
