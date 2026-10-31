@@ -15,7 +15,7 @@
        nobody. Delete this comment if you would rather not be counted; the card is
        identical without it, and I will only be a little sad about it :( -->
   <title id="titleId">Vombato&#39;s languages</title>
-  <desc id="descId">JSON: 62.4%, Python: 10.1%, YAML: 6.2%, JavaScript: 5.9%, TypeScript: 5.7%, Markdown: 4.9%, Other: 4.8%. calculated analyzing all 752 pull requests</desc>
+  <desc id="descId">JSON: 62.3%, Python: 10.1%, YAML: 6.2%, JavaScript: 5.9%, TypeScript: 5.7%, Markdown: 5.0%, Other: 4.9%. calculated analyzing all 754 pull requests</desc>
   <style>
     :root {
       --bg: #ffffff;
@@ -68,7 +68,7 @@
       <g class="entry" style="animation-delay: 120ms" transform="translate(0.0, 0)">
         <circle cx="4" cy="7.5" r="4" fill="var(--lang-0)"/>
         <text class="name" x="16" y="11">JSON</text>
-        <text class="share" x="199.5" y="11" text-anchor="end">62.4%</text>
+        <text class="share" x="199.5" y="11" text-anchor="end">62.3%</text>
       </g>
       <g class="entry" style="animation-delay: 190ms" transform="translate(211.5, 0)">
         <circle cx="4" cy="7.5" r="4" fill="var(--lang-1)"/>
@@ -93,14 +93,14 @@
       <g class="entry" style="animation-delay: 470ms" transform="translate(211.5, 42)">
         <circle cx="4" cy="7.5" r="4" fill="var(--lang-5)"/>
         <text class="name" x="16" y="11">Markdown</text>
-        <text class="share" x="199.5" y="11" text-anchor="end">4.9%</text>
+        <text class="share" x="199.5" y="11" text-anchor="end">5.0%</text>
       </g>
       <g class="entry" style="animation-delay: 540ms" transform="translate(0.0, 63)">
         <circle cx="4" cy="7.5" r="4" fill="var(--lang-6)"/>
         <text class="name" x="16" y="11">Other</text>
-        <text class="share" x="199.5" y="11" text-anchor="end">4.8%</text>
+        <text class="share" x="199.5" y="11" text-anchor="end">4.9%</text>
       </g>
     </g>
-    <text class="note" x="0" y="100">calculated analyzing all 752 pull requests</text>
+    <text class="note" x="0" y="100">calculated analyzing all 754 pull requests</text>
   </g>
 </svg>
