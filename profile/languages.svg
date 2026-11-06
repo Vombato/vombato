@@ -15,7 +15,7 @@
        nobody. Delete this comment if you would rather not be counted; the card is
        identical without it, and I will only be a little sad about it :( -->
   <title id="titleId">Vombato&#39;s languages</title>
-  <desc id="descId">JSON: 59.3%, Python: 10.8%, TypeScript: 5.9%, YAML: 5.8%, JavaScript: 5.7%, Markdown: 5.0%, Other: 7.5%. calculated analyzing all 818 pull requests</desc>
+  <desc id="descId">JSON: 59.3%, Python: 10.7%, TypeScript: 5.9%, YAML: 5.8%, JavaScript: 5.7%, Markdown: 5.0%, Other: 7.5%. calculated analyzing all 825 pull requests</desc>
   <style>
     :root {
       --bg: #ffffff;
@@ -73,7 +73,7 @@
       <g class="entry" style="animation-delay: 190ms" transform="translate(211.5, 0)">
         <circle cx="4" cy="7.5" r="4" fill="var(--lang-1)"/>
         <text class="name" x="16" y="11">Python</text>
-        <text class="share" x="199.5" y="11" text-anchor="end">10.8%</text>
+        <text class="share" x="199.5" y="11" text-anchor="end">10.7%</text>
       </g>
       <g class="entry" style="animation-delay: 260ms" transform="translate(0.0, 21)">
         <circle cx="4" cy="7.5" r="4" fill="var(--lang-2)"/>
@@ -101,6 +101,6 @@
         <text class="share" x="199.5" y="11" text-anchor="end">7.5%</text>
       </g>
     </g>
-    <text class="note" x="0" y="100">calculated analyzing all 818 pull requests</text>
+    <text class="note" x="0" y="100">calculated analyzing all 825 pull requests</text>
   </g>
 </svg>
