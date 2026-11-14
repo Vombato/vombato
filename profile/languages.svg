@@ -15,7 +15,7 @@
        nobody. Delete this comment if you would rather not be counted; the card is
        identical without it, and I will only be a little sad about it :( -->
   <title id="titleId">Vombato&#39;s languages</title>
-  <desc id="descId">JSON: 58.5%, Python: 11.0%, JavaScript: 6.1%, YAML: 6.0%, TypeScript: 5.8%, Markdown: 5.2%, Other: 7.3%. calculated analyzing all 951 pull requests</desc>
+  <desc id="descId">JSON: 58.4%, Python: 11.0%, JavaScript: 6.2%, YAML: 6.0%, TypeScript: 5.8%, Markdown: 5.2%, Other: 7.4%. calculated analyzing all 960 pull requests</desc>
   <style>
     :root {
       --bg: #ffffff;
@@ -68,7 +68,7 @@
       <g class="entry" style="animation-delay: 120ms" transform="translate(0.0, 0)">
         <circle cx="4" cy="7.5" r="4" fill="var(--lang-0)"/>
         <text class="name" x="16" y="11">JSON</text>
-        <text class="share" x="199.5" y="11" text-anchor="end">58.5%</text>
+        <text class="share" x="199.5" y="11" text-anchor="end">58.4%</text>
       </g>
       <g class="entry" style="animation-delay: 190ms" transform="translate(211.5, 0)">
         <circle cx="4" cy="7.5" r="4" fill="var(--lang-1)"/>
@@ -78,7 +78,7 @@
       <g class="entry" style="animation-delay: 260ms" transform="translate(0.0, 21)">
         <circle cx="4" cy="7.5" r="4" fill="var(--lang-2)"/>
         <text class="name" x="16" y="11">JavaScript</text>
-        <text class="share" x="199.5" y="11" text-anchor="end">6.1%</text>
+        <text class="share" x="199.5" y="11" text-anchor="end">6.2%</text>
       </g>
       <g class="entry" style="animation-delay: 330ms" transform="translate(211.5, 21)">
         <circle cx="4" cy="7.5" r="4" fill="var(--lang-3)"/>
@@ -98,9 +98,9 @@
       <g class="entry" style="animation-delay: 540ms" transform="translate(0.0, 63)">
         <circle cx="4" cy="7.5" r="4" fill="var(--lang-6)"/>
         <text class="name" x="16" y="11">Other</text>
-        <text class="share" x="199.5" y="11" text-anchor="end">7.3%</text>
+        <text class="share" x="199.5" y="11" text-anchor="end">7.4%</text>
       </g>
     </g>
-    <text class="note" x="0" y="100">calculated analyzing all 951 pull requests</text>
+    <text class="note" x="0" y="100">calculated analyzing all 960 pull requests</text>
   </g>
 </svg>
